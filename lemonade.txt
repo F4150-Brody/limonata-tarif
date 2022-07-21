@@ -4,4 +4,3 @@ LEMONADE RECIPE
 2.su
 3.limon
 4.nane
-5.buz
